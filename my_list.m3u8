@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Noticia",BAND NEWS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41352?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Noticia",BAND NEWS FHD ¹
+http://forceie.com:2082/sony123/sony123/8927?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Noticia",CNN BRASIL HD ¹
+http://forceie.com:2082/sony123/sony123/71391?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Noticia",CNN BRASIL FHD ¹
+http://forceie.com:2082/sony123/sony123/71360?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Noticia",GLOBO NEWS
+http://ingrid.ltd:25461/Juan123456/Juan123456/41304?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Noticia",GLOBO NEWS HD ²
+http://forceie.com:2082/sony123/sony123/557?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO
+http://ingrid.ltd:25461/Juan123456/Juan123456/41287?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO FHD ¹
+http://forceie.com:2082/sony123/sony123/31164?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO 2 HD ¹
+http://forceie.com:2082/sony123/sony123/342?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO 2 SD ¹
+http://forceie.com:2082/sony123/sony123/58427?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO FAMILY
+http://ingrid.ltd:25461/Juan123456/Juan123456/41285?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO FAMILY FHD ²
+http://forceie.com:2082/sony123/sony123/31165?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO MUNDI HD ¹
+http://forceie.com:2082/sony123/sony123/55090?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO MUNDI SD ¹
+http://forceie.com:2082/sony123/sony123/57784?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO PLUS*E
+http://ingrid.ltd:25461/Juan123456/Juan123456/41283?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO PLUS LEGENDADO HD ¹
+http://forceie.com:2082/sony123/sony123/94091?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO SIGNATURE HD ¹
+http://forceie.com:2082/sony123/sony123/59608?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO SIGNATURE LEGENDADO HD ¹
+http://forceie.com:2082/sony123/sony123/94095?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO POP HD ²
+http://forceie.com:2082/sony123/sony123/324?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO",HBO POP FHD ¹
+http://forceie.com:2082/sony123/sony123/6360?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="TELECINE",TELECINE ACTION HD ²
+http://forceie.com:2082/sony123/sony123/305?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="TELECINE",TELECINE ACTION HD ²
+http://forceie.com:2082/sony123/sony123/304?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="TELECINE",TELECINE CULT
+http://ingrid.ltd:25461/Juan123456/Juan123456/41231?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="TELECINE",TELECINE CULT HD ¹
+http://forceie.com:2082/sony123/sony123/303?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="TELECINE",TELECINE FUN
+http://ingrid.ltd:25461/Juan123456/Juan123456/41230?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="TELECINE",TELECINE FUN HD ¹
+http://forceie.com:2082/sony123/sony123/2722?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="TELECINE",TELECINE PIPOCA
+http://ingrid.ltd:25461/Juan123456/Juan123456/41229?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="TELECINE",TELECINE PIPOCA HD ²
+http://forceie.com:2082/sony123/sony123/299?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="TELECINE",TELECINE PREMIUM HD ²
+http://forceie.com:2082/sony123/sony123/71206?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="TELECINE",TELECINE PREMIUM HD ²
+http://forceie.com:2082/sony123/sony123/297?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="TELECINE",TELECINE TOUCH HD ²
+http://forceie.com:2082/sony123/sony123/295?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="TELECINE",TELECINE TOUCH HD ¹
+http://forceie.com:2082/sony123/sony123/2719?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="FILMES",WARNER CHANNEL HD ¹
+http://forceie.com:2082/sony123/sony123/45240?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="FILMES",WARNER CHANNEL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41215?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="FILMES",CANAL SONY HD ¹
+http://forceie.com:2082/sony123/sony123/58957?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="FILMES",CANAL SONY SD ²
+http://forceie.com:2082/sony123/sony123/7912?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY CHANNEL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41339?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY CHANNEL SD ²
+http://forceie.com:2082/sony123/sony123/4360?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY CIVILIZATION
+http://ingrid.ltd:25461/Juan123456/Juan123456/41338?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY CIVILIZATION HD ¹
+http://forceie.com:2082/sony123/sony123/58963?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY H&H HD ²
+http://forceie.com:2082/sony123/sony123/92861?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY H&H HD ¹
+http://forceie.com:2082/sony123/sony123/58964?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY SCIENCE
+http://ingrid.ltd:25461/Juan123456/Juan123456/41335?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY SCIENCE HD ¹
+http://forceie.com:2082/sony123/sony123/58965?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY TLC
+http://ingrid.ltd:25461/Juan123456/Juan123456/41333?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY TURBO
+http://ingrid.ltd:25461/Juan123456/Juan123456/41332?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY WORLD HD ¹
+http://forceie.com:2082/sony123/sony123/58967?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY WORLD
+http://ingrid.ltd:25461/Juan123456/Juan123456/41331?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY THEATER HD ¹
+http://forceie.com:2082/sony123/sony123/58966?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",DISCOVERY THEATER SD ²
+http://forceie.com:2082/sony123/sony123/431?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",HISTORY CHANNEL
+http://ingrid.ltd:25461/Juan123456/Juan123456/41281?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",HISTORY CHANNEL FHD ¹
+http://forceie.com:2082/sony123/sony123/31245?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",HISTORY CHANNEL 2 SD ²
+http://forceie.com:2082/sony123/sony123/4344?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Documentarios",HISTORY CHANNEL 2 HD ¹
+http://forceie.com:2082/sony123/sony123/423?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Noticia",GLOBO INTER TV CABUGI SD ¹
+http://forceie.com:2082/sony123/sony123/43770?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Infantis",CARTOON NETWORK HD ¹
+http://forceie.com:2082/sony123/sony123/549?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Infantis",CARTOON NETWORK SD ¹
+http://forceie.com:2082/sony123/sony123/58807?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Infantis",TOONCAST SD ²
+http://forceie.com:2082/sony123/sony123/19577?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Infantis",TOONCAST HD ¹
+http://forceie.com:2082/sony123/sony123/7493?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Infantis",BOOMERANG SD ²
+http://forceie.com:2082/sony123/sony123/4410?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Infantis",BOOMERANG SD ¹
+http://forceie.com:2082/sony123/sony123/58806?checkedby:hlscat.com
