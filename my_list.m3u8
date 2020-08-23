@@ -1,8 +1,44 @@
 #EXTM3U
+#EXTINF:0 group-title="Noticia",Band News FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/510
+#EXTINF:0 group-title="Noticia",Band News FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30195
+#EXTINF:0 group-title="Noticia",Band News HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/514
+#EXTINF:0 group-title="Noticia",Band News SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/520
 #EXTINF:0 group-title="Infantis",BOOMERANG H265
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30267
+#EXTINF:0 group-title="Infantis",Boomerang HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/138
+#EXTINF:0 group-title="Infantis",Boomerang SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/150
+#EXTINF:0 group-title="FILMES",Canal Brasil FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/298
+#EXTINF:0 group-title="FILMES",Canal Brasil FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30233
+#EXTINF:0 group-title="FILMES",Canal Brasil HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/322
+#EXTINF:0 group-title="FILMES",Canal Brasil SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/349
+#EXTINF:0 group-title="FILMES",Canal do Boi SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/83
+#EXTINF:0 group-title="FILMES",Canal Rural SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/81
+#EXTINF:0 group-title="FILMES",Canal Sony FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/274
+#EXTINF:0 group-title="FILMES",Canal Sony HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/302
+#EXTINF:0 group-title="FILMES",Canal Sony SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/327
 #EXTINF:0 group-title="Infantis",CARTOON H265
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30268
+#EXTINF:0 group-title="Infantis",Cartoon Network FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/126
+#EXTINF:0 group-title="Infantis",Cartoon Network HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/139
+#EXTINF:0 group-title="Infantis",Cartoon Network SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/151
 #EXTINF:0 group-title="Noticia",CNN Brasil FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/513
 #EXTINF:0 group-title="Noticia",CNN Brasil FHD[H265]
@@ -15,6 +51,60 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/523
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/33405
 #EXTINF:0 group-title="Esporte",COMBATE HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/257
+#EXTINF:0 group-title="Documentarios",Discovery Channel FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/166
+#EXTINF:0 group-title="Documentarios",Discovery Channel FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30260
+#EXTINF:0 group-title="Documentarios",Discovery Channel HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/181
+#EXTINF:0 group-title="Documentarios",Discovery Channel Science FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30255
+#EXTINF:0 group-title="Documentarios",Discovery Channel SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/196
+#EXTINF:0 group-title="Documentarios",Discovery Channel Theater FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30256
+#EXTINF:0 group-title="Documentarios",Discovery Channel Turbo FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30257
+#EXTINF:0 group-title="Documentarios",Discovery Channel World FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30258
+#EXTINF:0 group-title="Documentarios",Discovery Home & Health FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/168
+#EXTINF:0 group-title="Documentarios",Discovery Home & Health HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/183
+#EXTINF:0 group-title="Documentarios",Discovery Home & Health SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/198
+#EXTINF:0 group-title="Documentarios",Discovery Home&Health FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30254
+#EXTINF:0 group-title="Documentarios",Discovery Kids FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/127
+#EXTINF:0 group-title="Documentarios",Discovery Kids HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/140
+#EXTINF:0 group-title="Documentarios",Discovery Kids SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/152
+#EXTINF:0 group-title="Documentarios",Discovery Science FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/169
+#EXTINF:0 group-title="Documentarios",Discovery Science HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/184
+#EXTINF:0 group-title="Documentarios",Discovery Science SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/199
+#EXTINF:0 group-title="Documentarios",Discovery Theater FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/170
+#EXTINF:0 group-title="Documentarios",Discovery Theater HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/185
+#EXTINF:0 group-title="Documentarios",Discovery Theater SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/200
+#EXTINF:0 group-title="Documentarios",Discovery Turbo FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/171
+#EXTINF:0 group-title="Documentarios",Discovery Turbo HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/186
+#EXTINF:0 group-title="Documentarios",Discovery Turbo SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/201
+#EXTINF:0 group-title="Documentarios",Discovery World FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/172
+#EXTINF:0 group-title="Documentarios",Discovery World HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/187
+#EXTINF:0 group-title="Documentarios",Discovery World SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/202
 #EXTINF:0 group-title="Noticia",Globo News FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/512
 #EXTINF:0 group-title="Noticia",Globo News FHD[H265]
@@ -101,6 +191,36 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/478
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/486
 #EXTINF:0 group-title="HBO",HBO XTREME SD [LEG]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/217
+#EXTINF:0 group-title="Documentarios",History Channel 2 FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/173
+#EXTINF:0 group-title="Documentarios",History Channel 2 FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30262
+#EXTINF:0 group-title="Documentarios",History Channel 2 HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/188
+#EXTINF:0 group-title="Documentarios",History Channel 2 SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/203
+#EXTINF:0 group-title="Documentarios",History Channel FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/174
+#EXTINF:0 group-title="Documentarios",History Channel FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30250
+#EXTINF:0 group-title="Documentarios",History Channel HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/189
+#EXTINF:0 group-title="Documentarios",History Channel SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/204
+#EXTINF:0 group-title="Infantis",Tooncast SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/160
+#EXTINF:0 group-title="FILMES",Warner Channel FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/297
+#EXTINF:0 group-title="FILMES",Warner Channel HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/319
+#EXTINF:0 group-title="FILMES",Warner Channel SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/345
+#EXTINF:0 group-title="FILMES",Warner FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30226
+#EXTINF:0 group-title="FILMES",Warner HD[LEG]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/241
+#EXTINF:0 group-title="FILMES",Warner SD [LEG]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/242
 #EXTINF:0 group-title="Noticia",BAND NEWS FHD H265
 http://srv.tvprodigital.net:80/110175/110175/11536
 #EXTINF:0 group-title="Noticia",BAND NEWS Full_HD H265
@@ -463,10 +583,36 @@ http://srv.tvprodigital.net:80/110175/110175/61129
 http://srv.tvprodigital.net:80/110175/110175/61128
 #EXTINF:0 group-title="Infantis",TOONCAST SD¹
 http://srv.tvprodigital.net:80/110175/110175/4310
+#EXTINF:0 group-title="Noticia",Band News HD
+http://tvaz.top:80/arlan1/123456/69071
+#EXTINF:0 group-title="Infantis",Boomerang HD
+http://tvaz.top:80/arlan1/123456/69034
+#EXTINF:0 group-title="FILMES",Canal Brasil HD
+http://tvaz.top:80/arlan1/123456/69155
+#EXTINF:0 group-title="Infantis",Cartoon Network HD
+http://tvaz.top:80/arlan1/123456/69037
 #EXTINF:0 group-title="Noticia",CNN Espanhol HD
 http://tvaz.top:80/arlan1/123456/69074
 #EXTINF:0 group-title="Noticia",CNN Internacional HD
 http://tvaz.top:80/arlan1/123456/69077
+#EXTINF:0 group-title="Documentarios",Discovery Channel HD
+http://tvaz.top:80/arlan1/123456/68792
+#EXTINF:0 group-title="Documentarios",Discovery Civilization HD
+http://tvaz.top:80/arlan1/123456/68795
+#EXTINF:0 group-title="Documentarios",Discovery Home & Health HD
+http://tvaz.top:80/arlan1/123456/68798
+#EXTINF:0 group-title="Documentarios",Discovery ID HD
+http://tvaz.top:80/arlan1/123456/68801
+#EXTINF:0 group-title="Documentarios",Discovery Kids HD
+http://tvaz.top:80/arlan1/123456/69040
+#EXTINF:0 group-title="Documentarios",Discovery Science HD
+http://tvaz.top:80/arlan1/123456/68807
+#EXTINF:0 group-title="Documentarios",Discovery Theather HD
+http://tvaz.top:80/arlan1/123456/68810
+#EXTINF:0 group-title="Documentarios",Discovery Turbo HD
+http://tvaz.top:80/arlan1/123456/68813
+#EXTINF:0 group-title="Documentarios",Discovery World HD
+http://tvaz.top:80/arlan1/123456/68816
 #EXTINF:0 group-title="Noticia",Globo News HD
 http://tvaz.top:80/arlan1/123456/69081
 #EXTINF:0 group-title="HBO",HBO Family HD
@@ -479,14 +625,44 @@ http://tvaz.top:80/arlan1/123456/69024
 http://tvaz.top:80/arlan1/123456/69028
 #EXTINF:0 group-title="Esporte",PREMIERE CLUBES HD
 http://tvaz.top:80/arlan1/123456/69106
+#EXTINF:0 group-title="Infantis",Tooncast HD
+http://tvaz.top:80/arlan1/123456/69067
+#EXTINF:0 group-title="FILMES",Warner Channel HD
+http://tvaz.top:80/arlan1/123456/68902
 #EXTINF:0 group-title="HBO",HBO 2 HD
 http://tvaz.top:80/arlan1/123456/69016
 #EXTINF:0 group-title="Noticia",CNN BRASIL HD
 http://tvaz.top:80/arlan1/123456/72752
+#EXTINF:0 group-title="Noticia",Band News FHD
+http://tvaz.top:80/arlan1/123456/69070
+#EXTINF:0 group-title="Infantis",Boomerang FHD
+http://tvaz.top:80/arlan1/123456/69033
+#EXTINF:0 group-title="FILMES",Canal Brasil FHD
+http://tvaz.top:80/arlan1/123456/69154
+#EXTINF:0 group-title="Infantis",Cartoon Network FHD
+http://tvaz.top:80/arlan1/123456/69036
 #EXTINF:0 group-title="Noticia",CNN Espanhol FHD
 http://tvaz.top:80/arlan1/123456/69073
 #EXTINF:0 group-title="Noticia",CNN Internacional FHD
 http://tvaz.top:80/arlan1/123456/69076
+#EXTINF:0 group-title="Documentarios",Discovery Channel FHD
+http://tvaz.top:80/arlan1/123456/68791
+#EXTINF:0 group-title="Documentarios",Discovery Civilization FHD
+http://tvaz.top:80/arlan1/123456/68794
+#EXTINF:0 group-title="Documentarios",Discovery Home & Health FHD
+http://tvaz.top:80/arlan1/123456/68797
+#EXTINF:0 group-title="Documentarios",Discovery ID FHD
+http://tvaz.top:80/arlan1/123456/68800
+#EXTINF:0 group-title="Documentarios",Discovery Kids FHD
+http://tvaz.top:80/arlan1/123456/69039
+#EXTINF:0 group-title="Documentarios",Discovery Science FHD
+http://tvaz.top:80/arlan1/123456/68806
+#EXTINF:0 group-title="Documentarios",Discovery Theather FHD
+http://tvaz.top:80/arlan1/123456/68809
+#EXTINF:0 group-title="Documentarios",Discovery Turbo FHD
+http://tvaz.top:80/arlan1/123456/68812
+#EXTINF:0 group-title="Documentarios",Discovery World FHD
+http://tvaz.top:80/arlan1/123456/68815
 #EXTINF:0 group-title="Noticia",Globo News FHD
 http://tvaz.top:80/arlan1/123456/68934
 #EXTINF:0 group-title="HBO",HBO 2 FHD
@@ -497,12 +673,56 @@ http://tvaz.top:80/arlan1/123456/69021
 http://tvaz.top:80/arlan1/123456/69023
 #EXTINF:0 group-title="HBO",HBO Signature FHD
 http://tvaz.top:80/arlan1/123456/69027
+#EXTINF:0 group-title="Infantis",Tooncast FHD
+http://tvaz.top:80/arlan1/123456/69066
+#EXTINF:0 group-title="FILMES",Warner Channel FHD
+http://tvaz.top:80/arlan1/123456/68901
 #EXTINF:0 group-title="Noticia",CNN BRASIL FHD
 http://tvaz.top:80/arlan1/123456/71821
+#EXTINF:0 group-title="Infantis",Boomerang HD
+http://psrv.io:80/roberto/roberto123/18718
+#EXTINF:0 group-title="Infantis",Boomerang SD
+http://psrv.io:80/roberto/roberto123/18719
 #EXTINF:0 group-title="FILMES",CANAL 26 ARGENTINA HD
 http://psrv.io:80/roberto/roberto123/26427
+#EXTINF:0 group-title="FILMES",Canal Brasil HD
+http://psrv.io:80/roberto/roberto123/18716
+#EXTINF:0 group-title="FILMES",Canal Brasil SD
+http://psrv.io:80/roberto/roberto123/18717
+#EXTINF:0 group-title="Infantis",Cartoon Network HD
+http://psrv.io:80/roberto/roberto123/18711
+#EXTINF:0 group-title="Infantis",Cartoon Network SD
+http://psrv.io:80/roberto/roberto123/18712
 #EXTINF:0 group-title="Noticia",CNN INTERNACIONAL SD
 http://psrv.io:80/roberto/roberto123/26438
+#EXTINF:0 group-title="Documentarios",Discovery Channel HD
+http://psrv.io:80/roberto/roberto123/18701
+#EXTINF:0 group-title="Documentarios",Discovery Channel SD
+http://psrv.io:80/roberto/roberto123/18702
+#EXTINF:0 group-title="Documentarios",Discovery H&H HD
+http://psrv.io:80/roberto/roberto123/18697
+#EXTINF:0 group-title="Documentarios",Discovery H&H SD
+http://psrv.io:80/roberto/roberto123/18698
+#EXTINF:0 group-title="Documentarios",Discovery Kids SD
+http://psrv.io:80/roberto/roberto123/18696
+#EXTINF:0 group-title="Documentarios",Discovery Kids HD
+http://psrv.io:80/roberto/roberto123/22325
+#EXTINF:0 group-title="Documentarios",Discovery Science HD
+http://psrv.io:80/roberto/roberto123/18693
+#EXTINF:0 group-title="Documentarios",Discovery Science SD
+http://psrv.io:80/roberto/roberto123/18694
+#EXTINF:0 group-title="Documentarios",Discovery Theater HD
+http://psrv.io:80/roberto/roberto123/18691
+#EXTINF:0 group-title="Documentarios",Discovery Theater SD
+http://psrv.io:80/roberto/roberto123/18692
+#EXTINF:0 group-title="Documentarios",Discovery Turbo HD
+http://psrv.io:80/roberto/roberto123/18689
+#EXTINF:0 group-title="Documentarios",Discovery Turbo SD
+http://psrv.io:80/roberto/roberto123/18690
+#EXTINF:0 group-title="Documentarios",Discovery World HD
+http://psrv.io:80/roberto/roberto123/18687
+#EXTINF:0 group-title="Documentarios",Discovery World SD
+http://psrv.io:80/roberto/roberto123/18688
 #EXTINF:0 group-title="Noticia",Globo News HD
 http://psrv.io:80/roberto/roberto123/18651
 #EXTINF:0 group-title="Noticia",Globo News SD
@@ -527,8 +747,18 @@ http://psrv.io:80/roberto/roberto123/18642
 http://psrv.io:80/roberto/roberto123/18633
 #EXTINF:0 group-title="HBO",HBO Signature SD
 http://psrv.io:80/roberto/roberto123/18634
+#EXTINF:0 group-title="Documentarios",History Channel HD
+http://psrv.io:80/roberto/roberto123/18631
+#EXTINF:0 group-title="Documentarios",History Channel SD
+http://psrv.io:80/roberto/roberto123/18632
 #EXTINF:0 group-title="HBO",HBO Mundi HD
 http://psrv.io:80/roberto/roberto123/18623
+#EXTINF:0 group-title="Infantis",Tooncast SD
+http://psrv.io:80/roberto/roberto123/18533
+#EXTINF:0 group-title="FILMES",Warner Channel HD
+http://psrv.io:80/roberto/roberto123/18513
+#EXTINF:0 group-title="FILMES",Warner Channel SD
+http://psrv.io:80/roberto/roberto123/18514
 #EXTINF:0 group-title="Infantis",CARTOON NETWORK 4K ¹
 http://forceie.com:2082/sony123/sony123/59412?checkedby:hlscat.com
 #EXTINF:0 group-title="Infantis",CARTOON NETWORK FHD ²
@@ -543,6 +773,10 @@ http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/79977?checkedby:hlscat.com
 http://forceie.com:2082/sony123/sony123/549?checkedby:hlscat.com
 #EXTINF:0 group-title="Infantis",CARTOON NETWORK SD ¹
 http://forceie.com:2082/sony123/sony123/58807?checkedby:hlscat.com
+#EXTINF:0 group-title="Infantis",Cartoon Network FHD BR
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/81030?checkedby:hlscat.com
+#EXTINF:0 group-title="Infantis",Cartoon Network SD BR
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/81029?checkedby:hlscat.com
 #EXTINF:0 group-title="Infantis",TOONCAST FHD ²
 http://forceie.com:2082/sony123/sony123/91728?checkedby:hlscat.com
 #EXTINF:0 group-title="Infantis",TOONCAST HD
@@ -551,6 +785,12 @@ http://silvertv.net:1997/Majdi/Majdi123/63165?checkedby:hlscat.com
 http://forceie.com:2082/sony123/sony123/7493?checkedby:hlscat.com
 #EXTINF:0 group-title="Infantis",TOONCAST SD ²
 http://forceie.com:2082/sony123/sony123/19577?checkedby:hlscat.com
+#EXTINF:0 group-title="Infantis",Tooncast FHD BR
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/80091?checkedby:hlscat.com
+#EXTINF:0 group-title="Infantis",Tooncast HD BR
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/81167?checkedby:hlscat.com
+#EXTINF:0 group-title="Infantis",Tooncast SD BR
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/81168?checkedby:hlscat.com
 #EXTINF:0 group-title="Infantis",BOOMERANG
 http://ingrid.ltd:25461/Juan123456/Juan123456/41349?checkedby:hlscat.com
 #EXTINF:0 group-title="Infantis",BOOMERANG FHD ²
@@ -565,3 +805,7 @@ http://forceie.com:2082/sony123/sony123/32799?checkedby:hlscat.com
 http://forceie.com:2082/sony123/sony123/4410?checkedby:hlscat.com
 #EXTINF:0 group-title="Infantis",BOOMERANG SD ¹
 http://forceie.com:2082/sony123/sony123/58806?checkedby:hlscat.com
+#EXTINF:0 group-title="Infantis",Boomerang
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/7368.m3u8?checkedby:hlscat.com
+#EXTINF:0 group-title="Infantis",Boomerang SD BR
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/81028?checkedby:hlscat.com
